@@ -6,5 +6,7 @@ Particle box simulation tool
 
 Written in python (3.6)
 
-Run:
+To run
+```bash
 python particle_systest44.py
+```
